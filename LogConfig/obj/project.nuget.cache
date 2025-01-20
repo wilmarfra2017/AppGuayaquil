@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tyXBx2c7TA=",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\AppGuayaquil\\LogConfig\\LogConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mart800749.SIIGO\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

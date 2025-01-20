@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>LogConfig</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Wilmar Martinez</Authors>
+		<Company>Banco Guayaquil</Company>
+		<Description>Helper library para logging usando Serilog.</Description>
+		<Copyright>Copyright © 2025 Banco Guayaquil</Copyright>
+		<PackageTags>Logging;Serilog;Utilities</PackageTags>
+		<RepositoryUrl>https://github.com/BancoGuayaquil/LogConfig</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Serilog" Version="4.2.0" />
+	</ItemGroup>
+
+</Project>

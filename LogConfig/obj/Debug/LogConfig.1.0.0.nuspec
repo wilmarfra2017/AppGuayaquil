@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LogConfig</id>
+    <version>1.0.0</version>
+    <authors>Wilmar Martinez</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Helper library para logging usando Serilog.</description>
+    <copyright>Copyright © 2025 Banco Guayaquil</copyright>
+    <tags>Logging Serilog Utilities</tags>
+    <repository type="git" url="https://github.com/BancoGuayaquil/LogConfig" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Serilog" version="4.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Repos\AppGuayaquil\LogConfig\bin\Debug\net8.0\LogConfig.dll" target="lib\net8.0\LogConfig.dll" />
+  </files>
+</package>

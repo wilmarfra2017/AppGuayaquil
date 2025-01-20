@@ -1,0 +1,11 @@
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\bin\Debug\net8.0\AppGuayaquil.Domain.deps.json
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\bin\Debug\net8.0\AppGuayaquil.Domain.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\bin\Debug\net8.0\AppGuayaquil.Domain.pdb
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.AssemblyInfoInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.AssemblyInfo.cs
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\refint\AppGuayaquil.Domain.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.pdb
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\ref\AppGuayaquil.Domain.dll

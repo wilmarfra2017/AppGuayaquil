@@ -1,0 +1,12 @@
+C:\Repos\AppGuayaquil\LogConfig\bin\Release\net8.0\LogConfig.deps.json
+C:\Repos\AppGuayaquil\LogConfig\bin\Release\net8.0\LogConfig.dll
+C:\Repos\AppGuayaquil\LogConfig\bin\Release\net8.0\LogConfig.pdb
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.csproj.AssemblyReference.cache
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.AssemblyInfoInputs.cache
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.AssemblyInfo.cs
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.dll
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\refint\LogConfig.dll
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\LogConfig.pdb
+C:\Repos\AppGuayaquil\LogConfig\obj\Release\net8.0\ref\LogConfig.dll

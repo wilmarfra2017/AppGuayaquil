@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\AppGuayaquil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4A6C9-485C-48AD-AB5C-F5EC4F80234B}|LogConfig\\LogConfig.csproj|c:\\repos\\appguayaquil\\logconfig\\logconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59E4A6C9-485C-48AD-AB5C-F5EC4F80234B}|LogConfig\\LogConfig.csproj|solutionrelative:logconfig\\logconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\appguayaquil.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\appguayaquil.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4A6C9-485C-48AD-AB5C-F5EC4F80234B}|LogConfig\\LogConfig.csproj|c:\\repos\\appguayaquil\\logconfig\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4A6C9-485C-48AD-AB5C-F5EC4F80234B}|LogConfig\\LogConfig.csproj|solutionrelative:logconfig\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|c:\\repos\\appguayaquil\\appguayaquil.domain\\dtos\\paginateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|solutionrelative:appguayaquil.domain\\dtos\\paginateddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|c:\\repos\\appguayaquil\\appguayaquil.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|solutionrelative:appguayaquil.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C94FF5A-B274-4B05-8636-173434FE11AA}|AppGuayaquil.Application\\AppGuayaquil.Application.csproj|c:\\repos\\appguayaquil\\appguayaquil.application\\security\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C94FF5A-B274-4B05-8636-173434FE11AA}|AppGuayaquil.Application\\AppGuayaquil.Application.csproj|solutionrelative:appguayaquil.application\\security\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\validators\\updatepeoplecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\validators\\updatepeoplecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\validators\\addusercredentialcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\validators\\addusercredentialcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\validators\\addpeoplecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\validators\\addpeoplecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|c:\\repos\\appguayaquil\\appguayaquil.api\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB17CC3-53F8-4134-9060-7C4D104B7ADF}|AppGuayaquil.Api\\AppGuayaquil.Api.csproj|solutionrelative:appguayaquil.api\\validators\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|c:\\repos\\appguayaquil\\appguayaquil.domain\\entities\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90B9F03-3A24-481D-903F-7C020E7295D7}|AppGuayaquil.Domain\\AppGuayaquil.Domain.csproj|solutionrelative:appguayaquil.domain\\entities\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogConfig",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\LogConfig\\LogConfig.csproj",
+              "RelativeDocumentMoniker": "LogConfig\\LogConfig.csproj",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\LogConfig\\LogConfig.csproj",
+              "RelativeToolTip": "LogConfig\\LogConfig.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T16:08:08.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppGuayaquil.Api",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
+              "RelativeToolTip": "AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T15:40:08.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\LogConfig\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "LogConfig\\LoggerHelper.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\LogConfig\\LoggerHelper.cs",
+              "RelativeToolTip": "LogConfig\\LoggerHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:30:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Entities\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Domain\\Entities\\DomainEntity.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Entities\\DomainEntity.cs",
+              "RelativeToolTip": "AppGuayaquil.Domain\\Entities\\DomainEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:27:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginatedDto.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Dtos\\PaginatedDto.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Domain\\Dtos\\PaginatedDto.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Dtos\\PaginatedDto.cs",
+              "RelativeToolTip": "AppGuayaquil.Domain\\Dtos\\PaginatedDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:26:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Application\\Security\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Application\\Security\\TokenGenerator.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Application\\Security\\TokenGenerator.cs",
+              "RelativeToolTip": "AppGuayaquil.Application\\Security\\TokenGenerator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:26:02.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Middleware\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Middleware\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Middleware\\ExceptionHandler.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Middleware\\ExceptionHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:25:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUserCredentialCommandValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\AddUserCredentialCommandValidator.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Validators\\AddUserCredentialCommandValidator.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\AddUserCredentialCommandValidator.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Validators\\AddUserCredentialCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:05:14.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdatePeopleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\UpdatePeopleCommandValidator.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Validators\\UpdatePeopleCommandValidator.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\UpdatePeopleCommandValidator.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Validators\\UpdatePeopleCommandValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:13:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwCgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:50:46.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAswAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:40:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Entities\\People.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Domain\\Entities\\People.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Domain\\Entities\\People.cs",
+              "RelativeToolTip": "AppGuayaquil.Domain\\Entities\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:28:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddPeopleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\AddPeopleCommandValidator.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Validators\\AddPeopleCommandValidator.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\AddPeopleCommandValidator.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Validators\\AddPeopleCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:27:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Program.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Program.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAArwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:27:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Validators\\LoginDtoValidator.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Validators\\LoginDtoValidator.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Validators\\LoginDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:27:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Dtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "AppGuayaquil.Api\\Dtos\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\Dtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "AppGuayaquil.Api\\Dtos\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:27:02.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppGuayaquil.Api.props" />
+</Project>

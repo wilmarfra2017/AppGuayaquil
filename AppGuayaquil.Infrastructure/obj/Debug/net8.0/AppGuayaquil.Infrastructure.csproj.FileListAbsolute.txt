@@ -1,0 +1,17 @@
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Infrastructure.deps.json
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Infrastructure.runtimeconfig.json
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Infrastructure.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Infrastructure.pdb
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Domain.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\bin\Debug\net8.0\AppGuayaquil.Domain.pdb
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.csproj.AssemblyReference.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.AssemblyInfoInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.AssemblyInfo.cs
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuaya.0F17EF02.Up2Date
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\refint\AppGuayaquil.Infrastructure.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.pdb
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.genruntimeconfig.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\ref\AppGuayaquil.Infrastructure.dll
