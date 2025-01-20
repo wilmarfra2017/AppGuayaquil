@@ -192,3 +192,4 @@ C:\Repos\AppGuayaquil\AppGuayaquil.Api\obj\Debug\net8.0\AppGuayaquil.Api.pdb
 C:\Repos\AppGuayaquil\AppGuayaquil.Api\obj\Debug\net8.0\AppGuayaquil.Api.genruntimeconfig.cache
 C:\Repos\AppGuayaquil\AppGuayaquil.Api\obj\Debug\net8.0\ref\AppGuayaquil.Api.dll
 C:\Repos\AppGuayaquil\AppGuayaquil.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Repos\AppGuayaquil\AppGuayaquil.Api\obj\Debug\net8.0\AppGuayaquil.Api.sourcelink.json

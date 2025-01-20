@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppGuayaquil.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da3d52f74677eff5c1adc37f73388f3a84e6bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppGuayaquil.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppGuayaquil.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

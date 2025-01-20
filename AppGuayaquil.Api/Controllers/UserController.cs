@@ -27,6 +27,7 @@ public class UserController : ControllerBase
     }
 
     [HttpPost("login")]
+    [AllowAnonymous]
     public async Task<IActionResult> Login([FromBody] LoginRequestDto loginRequestDto)
     {
         ModelState.Clear();
@@ -40,10 +41,9 @@ public class UserController : ControllerBase
 
         var validationResult = await new LoginDtoValidator().ValidateAsync(loginRequestDto);
         if (!validationResult.IsValid)
-        {            
+        {
             return BadRequest(new { Errors = validationResult.Errors.Select(failure => failure.ErrorMessage) });
         }
-
 
         var user = await _mediator.Send(new GetUserCredentialsQuery(loginRequestDto.UserName, loginRequestDto.Password));
 
@@ -93,9 +93,6 @@ public class UserController : ControllerBase
             return StatusCode(500, "Se produjo un error interno del servidor.");
         }
     }
-
-
-
 
     private string GenerateJwtToken(string userName)
     {

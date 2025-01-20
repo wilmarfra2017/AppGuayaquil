@@ -14,7 +14,6 @@ COPY ["AppGuayaquil.Infrastructure/AppGuayaquil.Infrastructure.csproj", "AppGuay
 # Copiar el paquete local LogConfig al contenedor
 COPY LocalPackages /src/LocalPackages
 
-
 # Restaurar las dependencias
 RUN dotnet restore "AppGuayaquil.Api/AppGuayaquil.Api.csproj"
 
@@ -30,6 +29,9 @@ RUN dotnet publish -c Release -o /app/publish
 # Etapa 3: Imagen final para el runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
+
+# Configurar el entorno como Development
+ENV ASPNETCORE_ENVIRONMENT=Development
 
 # Copiar la publicación desde la etapa de construcción
 COPY --from=publish /app/publish .
