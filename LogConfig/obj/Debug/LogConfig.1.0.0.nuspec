@@ -9,7 +9,7 @@
     <description>Helper library para logging usando Serilog.</description>
     <copyright>Copyright © 2025 Banco Guayaquil</copyright>
     <tags>Logging Serilog Utilities</tags>
-    <repository type="git" url="https://github.com/BancoGuayaquil/LogConfig" />
+    <repository type="git" url="https://github.com/BancoGuayaquil/LogConfig" commit="9740be6653f885f2dbfe77f583bc4704b8e179b3" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Serilog" version="4.2.0" exclude="Build,Analyzers" />

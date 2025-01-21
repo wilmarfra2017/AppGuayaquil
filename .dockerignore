@@ -4,3 +4,5 @@
 **/*.git
 .dockerignore
 .vs/
+bin/
+obj/

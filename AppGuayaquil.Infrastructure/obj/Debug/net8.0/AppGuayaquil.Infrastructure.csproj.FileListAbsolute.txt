@@ -9,6 +9,7 @@ C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.AssemblyInfoInputs.cache
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.AssemblyInfo.cs
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.sourcelink.json
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuaya.0F17EF02.Up2Date
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\AppGuayaquil.Infrastructure.dll
 C:\Repos\AppGuayaquil\AppGuayaquil.Infrastructure\obj\Debug\net8.0\refint\AppGuayaquil.Infrastructure.dll

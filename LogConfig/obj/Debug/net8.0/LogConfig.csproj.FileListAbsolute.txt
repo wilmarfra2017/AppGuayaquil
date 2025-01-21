@@ -6,6 +6,7 @@ C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.GeneratedMSBuildEdito
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.AssemblyInfoInputs.cache
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.AssemblyInfo.cs
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.sourcelink.json
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.dll
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\refint\LogConfig.dll
 C:\Repos\AppGuayaquil\LogConfig\obj\Debug\net8.0\LogConfig.pdb

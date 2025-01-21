@@ -1463,7 +1463,7 @@
       ]
     },
     "LogConfig/1.0.0": {
-      "sha512": "lFbis7g6Lig8frW2Wvecfix6V9Y5+8WFUccY6YUIHmmcLOSAKof1JqmJxTFaAOG5hGee3XbvSjDonSTF47fY3w==",
+      "sha512": "CPHw2rg7uZ2aGRqqmpi8EXhS57d5HWMy1gR/xF1uWoH/PC88BO8nFa/6v9gtkMUbWLHH6jodCGw6onrZ5qWXdA==",
       "type": "package",
       "path": "logconfig/1.0.0",
       "files": [
@@ -3641,8 +3641,9 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mart800749.SIIGO\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\curso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3650,15 +3651,16 @@
       "projectUniqueName": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
       "projectName": "AppGuayaquil.Api",
       "projectPath": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\AppGuayaquil.Api.csproj",
-      "packagesPath": "C:\\Users\\mart800749.SIIGO\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\curso\\.nuget\\packages\\",
       "outputPath": "C:\\Repos\\AppGuayaquil\\AppGuayaquil.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Repos\\AppGuayaquil\\NuGet.Config",
-        "C:\\Users\\mart800749.SIIGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\curso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3668,7 +3670,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\src\\LocalPackages": {},
+        "C:\\Repos\\AppGuayaquil\\LocalPackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3696,7 +3698,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3750,7 +3753,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,6 +5,7 @@ C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.G
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.AssemblyInfoInputs.cache
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.AssemblyInfo.cs
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.sourcelink.json
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.dll
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\refint\AppGuayaquil.Domain.dll
 C:\Repos\AppGuayaquil\AppGuayaquil.Domain\obj\Debug\net8.0\AppGuayaquil.Domain.pdb

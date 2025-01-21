@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "pNp0h5kR47YQs0T1bhT1NWJW/MZha52V0EAO0DggxWI=",
+  "Hash": "jn3MEHnQZcvp1xNfl9VMA3NQG5hQoqhpVN8ipsTLp3c=",
   "Source": "AppGuayaquil.Api",
   "BasePath": "_content/AppGuayaquil.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

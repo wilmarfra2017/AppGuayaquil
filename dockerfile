@@ -14,6 +14,9 @@ COPY ["AppGuayaquil.Infrastructure/AppGuayaquil.Infrastructure.csproj", "AppGuay
 # Copiar el paquete local LogConfig al contenedor
 COPY LocalPackages /src/LocalPackages
 
+# Copiar el archivo NuGet.Config con la configuración relativa
+COPY NuGet.Config /src/NuGet.Config
+
 # Restaurar las dependencias
 RUN dotnet restore "AppGuayaquil.Api/AppGuayaquil.Api.csproj"
 
